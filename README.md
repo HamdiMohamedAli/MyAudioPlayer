@@ -1,4 +1,4 @@
-# 🎵 MyAudioPlayer
+# MyAudioPlayer
 
 A simple, clean local music player app for Android built with Java. It scans your device's internal storage for audio files, lists them in a RecyclerView, and plays them using Android's native MediaPlayer api. 
 
@@ -6,7 +6,7 @@ This project was built to learn how to handle audio files, custom UI layouts, an
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Auto-Scan Music:** Automatically finds `.mp3` and other audio files stored on your device.
 * **Modern Storage Compatible:** Uses modern Android Scoped Storage APIs so it works on older devices as well as Android 13/14+.
@@ -16,7 +16,7 @@ This project was built to learn how to handle audio files, custom UI layouts, an
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * **Language:** Java
 * **UI:** XML Layouts (ConstraintLayout, ViewPager2, TabLayout)
