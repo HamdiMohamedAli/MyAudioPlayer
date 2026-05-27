@@ -20,7 +20,8 @@ This project was built to learn how to handle audio files, custom UI layouts, an
 
 * **Language:** Java
 * **UI:** XML Layouts (ConstraintLayout, ViewPager2, TabLayout)
-* **Libraries:** * [Glide](https://github.com/bumptech/glide) - For loading album cover art seamlessly.
+* **Libraries:**
+*[Glide](https://github.com/bumptech/glide) - For loading album cover art seamlessly.
   * Android Jetpack Palette - For making the UI colors adapt to the music art.
 
 ---
